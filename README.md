@@ -1,10 +1,12 @@
 # internsctl
+## Description
+Introducing **Internsctl**, a versatile and efficient Linux command engineered to streamline system management. This command empowers users to effortlessly retrieve detailed file information, list users, create new users with customizable privileges, and set up 'sudo-only' users for enhanced security. Additionally, it provides comprehensive insights into system memory utilization and CPU information, delivering a holistic view of your system's performance. Simplify system administration and gain quick access to essential system details with **Internsctl**
 
 ## Installation
 
 ### 1. Clone the Repository
 
-    git clone https://github.com/yourusername/internsctl.git
+    git clone https://github.com/Sahil-Mahawer/Xenon_internsctl.git
     
 ### 2. Move Manual to the Man Pages Directory
 
